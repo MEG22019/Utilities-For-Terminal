@@ -6,7 +6,7 @@
 using std::cout, std::cin, std::endl;
 
 namespace autosave_tools {
-    
+
         namespace fs = std::filesystem;
 
         std::string findFile(const std::string &filename){
@@ -55,5 +55,10 @@ namespace autosave_tools {
 
 
    }
+}
+
+int main() {
+    autosave_tools::autosave();  // Call your function
+    return 0;
 }
  
