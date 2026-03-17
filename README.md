@@ -1,8 +1,9 @@
 # Utilities For Terminal
 
-A collection of lightweight command-line utilities designed to simplify common tasks and improve productivity when working in the terminal.
+The collection of lightweight command-line utilities designed to simplify common tasks and improve productivity when working in the terminal.
 
 These tools focus on providing fast, simple solutions for everyday command-line workflows such as file manipulation, automation, and system tasks.
+
 
 ---
 
